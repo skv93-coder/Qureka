@@ -1,0 +1,93 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "On a dartboard, what number is directly opposite No. 1?",
+      "correct_answer": "19",
+      "incorrect_answers": ["20", "12", "15"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+      "correct_answer": "Truth",
+      "incorrect_answers": ["Answer", "Cause", "Source"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of Poland in Polish?",
+      "correct_answer": "Polska",
+      "incorrect_answers": ["Pupcia", "Polszka", "P&oacute;land"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What nuts are used in the production of marzipan?",
+      "correct_answer": "Almonds",
+      "incorrect_answers": ["Peanuts", "Walnuts", "Pistachios"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+      "correct_answer": "Monty Python",
+      "incorrect_answers": [
+        "The Goodies&lrm;",
+        "The League of Gentlemen&lrm;",
+        "The Penny Dreadfuls"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the author of Jurrasic Park?",
+      "correct_answer": "Michael Crichton",
+      "incorrect_answers": ["Peter Benchley", "Chuck Paluhniuk", "Irvine Welsh"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is not the host of a program on NPR?",
+      "correct_answer": "Ben Shapiro",
+      "incorrect_answers": ["Terry Gross", "Ira Glass", "Peter Sagal"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+      "correct_answer": "Medell&iacute;n",
+      "incorrect_answers": ["Bogot&aacute;", "Quito", "Cali"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When was the Playstation 3 released?",
+      "correct_answer": "November 11, 2006",
+      "incorrect_answers": [
+        "January 8, 2007",
+        "December 25, 2007",
+        "July 16, 2006"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+      "correct_answer": "Helicopter",
+      "incorrect_answers": ["Stealth Blimp", "Jet", "Space Capsule"]
+    }
+  ]
+}
